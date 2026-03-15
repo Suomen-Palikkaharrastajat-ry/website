@@ -5,9 +5,13 @@ slug: index
 published: true
 ---
 
+<with-image src="https://cdn.sumup.store/shops/03892553/settings/th2048/05e95fcf-0b22-465c-aacd-339271344c2d.png" alt="LEGO-harrastaja" side="right">
+
 ## Mitä?
 
 Suomen Palikkaharrastajat ry on LEGO-harrastajien rekisteröity yhdistys. Yhdistys kokoaa yhteen LEGO-harrastajia, järjestää harrastusta tukevaa toimintaa, tukee jäseniään omien LEGO-tapahtumien järjestämisessä ja osallistuu muiden järjestämiin tapahtumiin.
+
+</with-image>
 
 ## Missä?
 

@@ -33,9 +33,17 @@ Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 [palikkaharrastajatry@outlook.com
 ](mailto:palikkaharrastajatry@outlook.com)
 
+## Jäsenkortti
+
+Yhdistyksellä on käytössä [sähköinen jäsenkortti](https://kortti.palikkaharrastajat.fi), johon kirjaudutaan sähköpostiosoitteella – samalla tavalla kuin yhdistyksen keskustelualueelle.
+
 ## Palikkakalenteri
 
 Jäsenet pääsevät mukaan rakentamaan harrastukseen liittyvää toimintaa Suomessa koostavaa Palikkakalenteria: [https://kalenteri.palikkaharrastajat.fi](https://kalenteri.palikkaharrastajat.fi).
+
+## Jäsenedut 2026
+
+Yhdistyksen vuoden 2026 jäsenetuja ei ole vielä vahvistettu.
 
 ## Jäsenedut 2025
 

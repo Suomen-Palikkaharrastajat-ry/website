@@ -25,6 +25,6 @@ Sähköposti: palikkaharrastajatry@outlook.com
 
 <callout type="info">
 
-Hallitus kokoontuu tarvittaessa ja käsittelee mm. jäsenhakemukset. Jäsenyyteen liittyvissä asioissa ota yhteyttä sähköpostitse.
+Hallitus kokoontuu tarvittaessa ja käsittelee mm. jäsenhakemukset. Jäsenyyteen liittyvissä asioissa ota yhteyttä sähköpostitse: [palikkaharrastajatry@outook.com](mailto:palikkaharrastajatry@outlook.com).
 
 </callout>

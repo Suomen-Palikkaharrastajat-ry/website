@@ -13,6 +13,11 @@ published: true
 
 Suomen Palikkaharrastajat ry on LEGO-harrastajien rekisteröity yhdistys. Yhdistys kokoaa yhteen LEGO-harrastajia, järjestää harrastusta tukevaa toimintaa, tukee jäseniään omien LEGO-tapahtumien järjestämisessä ja osallistuu muiden järjestämiin tapahtumiin.
 
+Yhdistys myös kehittää seuraavia sivustoja:
+
+* [Palikkalinkit](https://linkit.palikkaharrastajat.fi/) – Päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön.
+* [Palikkakalenteri](https://kalenteri.palikkaharrastajat.fi/) – Yhdessä ylläpidettävä kalenteri harrastukseen liittyvistä tapahtumista.
+
 </with-image>
 
 ## Missä?

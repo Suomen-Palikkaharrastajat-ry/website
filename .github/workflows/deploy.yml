@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Deploy
 
 # Checks out the site engine (website-build), feeds this repo's content
 # into it, and deploys the result to this repo's GitHub Pages.

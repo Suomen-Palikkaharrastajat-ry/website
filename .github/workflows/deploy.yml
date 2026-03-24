@@ -7,6 +7,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      engine_ref:
+        description: 'Engine branch/tag/SHA to use (default: main)'
+        default: 'main'
 
 permissions:
   contents: read
@@ -14,8 +18,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
 
 env:
   ENGINE_REPO: Suomen-Palikkaharrastajat-ry/website-build
@@ -36,37 +40,30 @@ jobs:
         with:
           repository: ${{ env.ENGINE_REPO }}
           path: engine
+          ref: ${{ inputs.engine_ref || 'main' }}
           # Add 'token: ${{ secrets.ENGINE_PAT }}' here for a private engine repo
 
-      - name: Setup Node 20
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: 'engine/package-lock.json'
 
-      - name: Cache node_modules
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: engine/node_modules
-          key: npm-${{ hashFiles('engine/package-lock.json') }}
-          restore-keys: npm-
-
-      - name: Cache Elm packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.elm
-          key: elm-${{ hashFiles('engine/elm.json') }}
-          restore-keys: elm-
-
-      - name: Cache elm-pages codegen
-        uses: actions/cache@v4
-        with:
-          path: engine/.elm-pages
-          key: elm-pages-${{ hashFiles('engine/elm.json', 'engine/package.json') }}
-          restore-keys: elm-pages-
+          path: |
+            ~/.elm
+            engine/.elm-pages
+          key: elm-${{ runner.os }}-${{ hashFiles('engine/elm.json', 'engine/package.json') }}
+          restore-keys: elm-${{ runner.os }}-
 
       - name: Install npm dependencies
         working-directory: engine
         run: npm ci
+
+      - name: Lint Elm
+        working-directory: engine
+        run: npx elm-review
 
       - name: Inject build metadata
         working-directory: engine

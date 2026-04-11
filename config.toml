@@ -65,6 +65,8 @@ logo_alt   = "Suomen Palikkaharrastajat ry"
 [navbar]
 # Set to true to make the navbar sticky (fixed at top of viewport on mobile).
 sticky = true
+# Set to false to hide the desktop top-toolbar search button.
+show_desktop_search = false
 
 [admin]
 enabled = true

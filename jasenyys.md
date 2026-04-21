@@ -9,9 +9,13 @@ order: 2
 
 # Jäsenyys
 
+<toc class="float-left max-w-lg mr-8"/>
+
 Yhdistyksen jäseneksi voi hakea [maksamalla kuluvan vuoden jäsenmaksun](https://maksut.palikkaharrastajat.fi) ja toimittamalla maksun yhteydessä jäsenyyteen riittävät tiedot (nimi, kotipaikka, sähköpostiosoite ja mahdollinen bricklink-käyttäjätunnus). Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
 
 (Ennen 1.10.2025 maksetut jäsenmaksut ovat voimassa jäsenkortissa määritetyn ajan.)
+
+## Jäsenmaksu
 
 <pricing-table>
 
@@ -55,35 +59,31 @@ Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 ](mailto:palikkaharrastajatry@outlook.com)
 
 
-## Jäsenedut 2026
+## Jäsenedut
 
-Yhdistyksen vuoden 2026 jäsenetuja ei ole vielä vahvistettu.
+Yhdistyksen vuodelle 2026 varmistetut jäsenedut:
 
-## Jäsenedut 2025
+<feature-grid columns="2">
 
-Vuonna 2025 jäsenemme saivat alennuksia useista LEGO-alan liikkeistä:
+<feature title="Joshua Train Bricks" icon="star" href="https://store.bricklink.com/joshuatrain">
+**https://store.bricklink.com/joshuatrain**
 
-### Panttilan palikka (Kurikka, LEGO-kauppa)
+Juna-aiheinen BrickLink-kauppa
+
+- 10 % alennus tilauksista
+
+Pyydä alennuskoodi ennen ostoksia kaupan "Contact"-painikkeella viestillä "Suomen Palikkaharrastajat ry:n jäsenetu".
+</feature>
+
+<feature title="Panttilan Palikka" icon="star" href="https://panttilanpalikka.sumupstore.com/">
+**https://panttilanpalikka.sumupstore.com/**
+
+LEGO-kauppa Kurikassa
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 euron tilauksista
 - Ei koske minifiguureja ja settejä
+</feature>
 
-### Grizzlies' Bricks (BrickLink)
-- 10 % alennus
-- 15 % alennus yli 80 euron tilauksista
+</feature-grid>
 
-### Savo Bricks (BrickLink)
-- 5 % alennus
-- 10 % alennus yli 20 euron tilauksista
-- 15 % alennus yli 40 euron tilauksista
-
-### Joshua's Train Bricks (juna-aiheinen BrickLink)
-- 10 % alennus
-
-### Aletuu (LEGO-irtopalat)
-- 15 % alennus täysistä laatikoista
-- 50 % alennus irto- ja myymättömistä tuotteista
-- Koodi VIP2025 BrickLink-tilauksiin
-
-### Fantasialinna (myymälä)
-- 10 % alennus jäsenkortilla
+Haluatko tarjoa etuja jäsenillemme? Ota yhteyttä: [palikkaharrastajatry@outlook.com](mailto:palikkaharrastajatry@outlook.com).

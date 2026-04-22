@@ -9,9 +9,13 @@ order: 2
 
 # Jäsenyys
 
-<toc class="float-left max-w-lg mr-8"/>
+<toc class="float-left w-48 mr-8"/>
 
-Yhdistyksen jäseneksi voi hakea [maksamalla kuluvan vuoden jäsenmaksun](https://maksut.palikkaharrastajat.fi) ja toimittamalla maksun yhteydessä jäsenyyteen riittävät tiedot (nimi, kotipaikka, sähköpostiosoite ja mahdollinen bricklink-käyttäjätunnus). Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
+Yhdistyksen jäseneksi voi hakea [maksamalla kuluvan vuoden jäsenmaksun](https://maksut.palikkaharrastajat.fi) ja toimittamalla maksun yhteydessä tai sähköpostilla jäsenyyteen riittävät tiedot: **nimi**, **kotipaikka** ja **sähköpostiosoite**. Ilmoita myös, jos olet alle 15-vuotias.
+
+Jos haluat vastaanottaa yhdistyksen mahdollisia jäsenetuja BrickLink ja Brick Owl -kauppiailta, ilmoita myös mahdollinen käyttäjätunnuksesi näissä palveluissa. Jos et halua yhdistyksen luovuttavan käyttäjätunnustasi näissä palveluissa niissä jäsenetuja tarjoaville kauppiaille, älä ilmoita tunnustasi yhdistykselle tai pyydä sen poistamista jäsenrekiseristä.
+ 
+Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
 
 (Ennen 1.10.2025 maksetut jäsenmaksut ovat voimassa jäsenkortissa määritetyn ajan.)
 

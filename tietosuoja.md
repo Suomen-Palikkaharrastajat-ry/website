@@ -49,6 +49,7 @@ Rekisteriin voidaan tallentaa:
 - sähköpostiosoite
 - puhelinnumero
 - liittymispäivä
+- onko jäsen äänioikeutettu
 - viimeisen jäsenmaksun maksamispäivä
 - Discord-, BrickLink- ja Brick Owl -palveluiden käyttäjätunnukset tai nimimerkit (vain jos jäsen ilmoittaa ne itse)
 

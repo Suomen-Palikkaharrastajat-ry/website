@@ -55,6 +55,14 @@ Jäsenet pääsevät mukaan rakentamaan harrastukseen liittyvää toimintaa Suom
 Yhdistyksellä on käytössä sähköinen jäsenkortti, johon kirjaudutaan sähköpostiosoitteella – samalla tavalla kuin yhdistyksen keskustelualueelle.
 </feature>
 
+<feature title="Lainapalikat" icon="package">
+
+Yhdistyksellä on varastoissaan pestyjä rakennuspalioita riittävästi pieniin yksityistilaisuuksiin jäsenten lainattavaksi (toimitus omakustanteisesti).
+
+![Laatikollinen palikoita](images/palikat-03.jpeg)
+
+</feature>
+
 </feature-grid>
 
 Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:

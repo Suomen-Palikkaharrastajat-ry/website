@@ -67,9 +67,9 @@ Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 
 Yhdistyksen vuodelle 2026 varmistetut jäsenedut:
 
-<feature-grid columns="2" icon="star "order="random">
+<feature-grid columns="2" order="random">
 
-<feature title="Grizzlies' Bricks" href="https://store.bricklink.com/tspio">
+<feature title="Grizzlies' Bricks" icon="star" href="https://store.bricklink.com/tspio">
 **https://store.bricklink.com/tspio**
 
 Bricklink-kauppa

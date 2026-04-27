@@ -1,7 +1,6 @@
 ---
 title: "Yhdistys"
 description: "Tietoa Suomen Palikkaharrastajat ry:stä ja sen hallituksesta."
-slug: yhdistys
 published: true
 nav: true
 order: 5

@@ -1,7 +1,6 @@
 ---
 title: "Jäsenyys"
 description: "Liity Suomen Palikkaharrastajat ry:n jäseneksi ja nauti jäseneduista."
-slug: jasenyys
 published: true
 nav: true
 order: 2
@@ -65,9 +64,9 @@ Yhdistyksellä on varastoissaan pestyjä rakennuspalioita riittävästi pieniin 
 
 </feature-grid>
 
-Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
+[Lue ohjeet keskustelualueelle liittymiseen.](https://oppaat.palikkaharrastajat.fi/jasenpalvelut/keskustelualue). Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 [palikkaharrastajatry@outlook.com
-](mailto:palikkaharrastajatry@outlook.com)
+](mailto:palikkaharrastajatry@outlook.com).
 
 
 ## Jäsenedut

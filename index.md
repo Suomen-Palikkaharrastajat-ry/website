@@ -1,7 +1,6 @@
 ---
 title: "Suomen Palikkaharrastajat ry"
 description: "Rekisteröity yhdistys LEGO-harrastajille Suomessa"
-slug: index
 published: true
 nav: mobile
 navTitle: Etusivu

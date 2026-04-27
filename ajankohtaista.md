@@ -1,7 +1,6 @@
 ---
 title: "Ajankohtaista"
 description: "Uusimmat uutiset ja tiedotteet Suomen Palikkaharrastajat ry:ltä."
-slug: ajankohtaista
 published: true
 nav: true
 order: 1

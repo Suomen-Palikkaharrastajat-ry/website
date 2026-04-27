@@ -1,7 +1,6 @@
 ---
 title: "Historiaa"
 description: "Suomen Palikkaharrastajat ry:n historia vuodesta 2023"
-slug: historiaa
 published: true
 nav: true
 navTitle: "Historiaa"

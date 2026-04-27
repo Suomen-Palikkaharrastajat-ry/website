@@ -1,7 +1,6 @@
 ---
 title: "Säännöt"
 description: "Suomen Palikkaharrastajat ry:n säännöt, voimassa 5.3.2026 alkaen."
-slug: saannot
 published: true
 nav: true
 order: 4

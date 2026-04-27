@@ -64,7 +64,9 @@ Yhdistyksellä on varastoissaan pestyjä rakennuspalioita riittävästi pieniin 
 
 </feature-grid>
 
-[Lue ohjeet keskustelualueelle liittymiseen.](https://oppaat.palikkaharrastajat.fi/jasenpalvelut/keskustelualue). Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
+[Lue ohjeet keskustelualueelle liittymiseen.](https://oppaat.palikkaharrastajat.fi/jasenpalvelut/keskustelualue)
+
+Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 [palikkaharrastajatry@outlook.com
 ](mailto:palikkaharrastajatry@outlook.com).
 

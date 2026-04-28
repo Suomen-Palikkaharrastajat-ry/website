@@ -37,7 +37,7 @@ Juuri nyt yhdistys ylläpitää ja kehittää harrastuksesta tietoa jakavia verk
 
 <feature title="Palikkalinkit" icon="rss" href="https://linkit.palikkaharrastajat.fi/">
 
-**Palikkalinkit*** on päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön, ja sisältää myös muutaman noston kansainvälisestä tarjonnasta. Sivustolle voidaan lisätä julkisia "syötteitä" (RSS, ATOM, ...) tarjoavia palveluita ja sivustoja.
+**Palikkalinkit** on päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön, ja sisältää myös muutaman noston kansainvälisestä tarjonnasta. Sivustolle voidaan lisätä julkisia "syötteitä" (RSS, ATOM, ...) tarjoavia palveluita ja sivustoja.
 
 </feature>
 

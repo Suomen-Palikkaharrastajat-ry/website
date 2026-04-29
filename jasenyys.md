@@ -82,7 +82,7 @@ Yhdistyksen vuodelle 2026 varmistetut jäsenedut:
 <feature title="Grizzlies' Bricks" icon="star" href="https://store.bricklink.com/tspio">
 **https://store.bricklink.com/tspio**
 
-Bricklink-kauppa
+BrickLink-kauppa
 
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 € tilauksista
@@ -104,7 +104,7 @@ Joshua's Train Bricks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jä
 <feature title="Panttilan Palikka" icon="star" href="https://panttilanpalikka.sumupstore.com/">
 **https://panttilanpalikka.sumupstore.com/**
 
-LEGO-kauppa Kurikassa ja Bricklinkissä
+LEGO-kauppa Kurikassa ja BrickLinkissä
 
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 euron tilauksista

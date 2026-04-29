@@ -9,7 +9,7 @@ order: 1
 # Ajankohtaista
 
 
-## 29.4.2026 — Jäsekirje 1 / 2026
+## 29.4.2026 — Jäsenkirje 1 / 2026
 
 [Lue tästä Suomen Palikkaharrastajat ry:n vuoden 2026 ensimmäinen jäsenkirje](jasenkirje).
 

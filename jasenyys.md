@@ -8,7 +8,9 @@ order: 2
 
 # Jäsenyys
 
-<toc class="float-left w-48 mr-8"/>
+<toc />
+
+## Liittyminen
 
 Yhdistyksen jäseneksi voi hakea [maksamalla kuluvan vuoden jäsenmaksun](https://maksut.palikkaharrastajat.fi) ja toimittamalla maksun yhteydessä tai sähköpostilla jäsenyyteen riittävät tiedot: **nimi**, **kotipaikka** ja **sähköpostiosoite**. Ilmoita myös, jos olet alle 15-vuotias (äänioikeus yhdistyksen kokokouksissa vaatii 15 vuoden iän).
 
